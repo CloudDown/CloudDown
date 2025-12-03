@@ -7,11 +7,3 @@
 </a>
   
 </p>
-
------
-
-### <p align="center">👀 &nbsp;Visiteurs</p>
-<br>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/CloudDown/count.svg" />
-</p>
