@@ -18,10 +18,10 @@ Actif sur Arch Linux avec setup Nvidia, Raspberry Pi, et crypto (mining PRL, Led
 ## 🛠️ Tech Stack
 
 **Languages**
-![Languages](https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,bash&theme=dark)
+![Languages](https://skillicons.dev/icons?i=py,rust,java,js,html,css,bash&theme=dark)
 
 **Tools & Platforms**
-![Tools](https://skillicons.dev/icons?i=linux,arch,docker,git,github,vscode,nvidia,raspberrypi&theme=dark)
+![Tools](https://skillicons.dev/icons?i=linux,arch,docker,git,github,vscode,raspberrypi&theme=dark)
 
 **AI / Data / Others**
 Python (Pandas, scripting) · C/Embedded · Git · Arch Linux · Nvidia GPU · Airflow-style pipelines (personnel)
