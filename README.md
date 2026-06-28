@@ -1,4 +1,3 @@
----
 ## 👤 About
 
 Étudiant en **génie informatique**. Passionné par les systèmes, l'embarqué, l'IA et les outils de productivité. Je construis des scripts, des outils CLI, des aides à l'étude et j'explore les agents de coding (OpenCode, Cursor, Claude Code, etc.).
