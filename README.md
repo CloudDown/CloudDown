@@ -1,14 +1,7 @@
-### Passager / Clud (CloudDown)
-![Polytechnique Montréal](https://img.shields.io/badge/Polytechnique+Montr%C3%A9al-G%C3%A9nie+Informatique-8957E5?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Montr%C3%A9al%2C+QC-Canada-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CloudDown)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Passkultur)
-
 ---
 ## 👤 About
 
-Étudiant en **génie informatique** à **Polytechnique Montréal**. Passionné par les systèmes, l'embarqué, l'IA et les outils de productivité. Je construis des scripts, des outils CLI, des aides à l'étude et j'explore les agents de coding (OpenCode, Cursor, Claude Code, etc.).
+Étudiant en **génie informatique**. Passionné par les systèmes, l'embarqué, l'IA et les outils de productivité. Je construis des scripts, des outils CLI, des aides à l'étude et j'explore les agents de coding (OpenCode, Cursor, Claude Code, etc.).
 
 Actif sur Arch Linux avec setup Nvidia, Raspberry Pi, et crypto (mining PRL, Ledger, Polymarket). Je m'intéresse aussi au développement personnel, au gaming (Rocket League, Valorant, Minecraft) et à une vision sans filtre de la tech/société.
 
