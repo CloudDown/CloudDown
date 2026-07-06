@@ -1,8 +1,8 @@
 ## 👤 About
 
-Étudiant en **génie informatique**. Passionné par les systèmes, l'embarqué, l'IA et les outils de productivité. Je construis des scripts, des outils CLI, des aides à l'étude et j'explore les agents de coding (OpenCode, Cursor, Claude Code, etc.).
+Étudiant en **génie informatique**. Passionné par les systèmes, l'embarqué, l'IA et les outils de productivité. Je construis des scripts, des outils CLI et j'explore les technologies émergentes.
 
-Actif sur Arch Linux avec setup Nvidia, Raspberry Pi, et crypto (mining PRL, Ledger, Polymarket). Je m'intéresse aussi au développement personnel, au gaming (Rocket League, Valorant, Minecraft) et à une vision sans filtre de la tech/société.
+Actif sur Arch Linux avec setup Nvidia, Raspberry Pi, et crypto (mining PRL, Ledger, Polymarket). Je m'intéresse aussi au développement personnel, au gaming (Rocket League, Valorant, Minecraft).
 
 **🟢 Open to :** Projets open-source · Contributions IA/coding · Collaborations techniques · Stages en software/systems (2027+)
 
@@ -25,17 +25,10 @@ Python (Pandas, scripting) · C/Embedded · Git · Arch Linux · Nvidia GPU · A
 |---------|------|--------|
 | **AI Coding Agents** | Outils principaux | OpenCode, Cursor CLI, Claude Code, prompt engineering, workflows avancés |
 | **Systèmes & Embarqué** | Apprentissage actif | C efficace, Raspberry Pi (ventilation, projets hardware), Linux internals |
-| **Outils & Automatisation** | Projets perso | Scripts Python, study aids (HTML/JS dark theme), memory systems, gaming tools |
-| **Math & Études** | MTH0103 + équivalences | Intégration, fiches de révision, quizzes, sites web d'étude |
+| **Outils & Automatisation** | Projets perso | Scripts Python, memory systems, gaming tools |
 
 ---
 ## 🚀 Featured Projects
-
-<details open>
-<summary><b>cours_python</b> — Matériel éducatif Python</summary>
-<br>
-Repo pour l'enseignement et l'apprentissage du Python (exercices, exemples, structure de cours).
-</details>
 
 <details>
 <summary><b>CrosshairPack / Anti-AFK / Alcoil</b> — Outils gaming</summary>
@@ -47,21 +40,24 @@ Pack de crosshairs, anti-AFK, et outils no-recoil (AutoIt/Python) pour améliore
 ## 💼 Experience & Activité
 
 - **Développement personnel & open-source** : Scripts, outils CLI, projets hardware (RPi), automation Linux.
-- **Focus actuel** : Maîtrise du C/embarqué, agents IA avancés, optimisation GPU/mining, aides à l'étude interactives.
+- **Focus actuel** : Maîtrise du C/embarqué, agents IA avancés, optimisation GPU/mining.
+
 ---
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CloudDown&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" />
-<img height="165" src="https://streak-stats.demolab.com?user=CloudDown&hide_border=true&background=0D1117&stroke=8957E5&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CloudDown&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=A855F7&icon_color=8B5CF6&theme=dark" />
+<img height="165" src="https://streak-stats.demolab.com?user=CloudDown&hide_border=true&background=0D1117&stroke=8957E5&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&theme=dark" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudDown&layout=compact&langs_count=8&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117" />
 </div>
 
 ---
 ## 🎯 Current Focus
+
 ```yaml
 focus:
-  learning: ["C & Embedded", "Advanced AI Agents (OpenCode/Cursor)", "MTH0103 Intégration"]
-  building: ["Outils d'étude interactifs", "Projets hardware RPi", "Scripts Linux"]
+  learning: ["C & Embedded", "Advanced AI Agents (OpenCode/Cursor)"]
+  building: ["Projets hardware RPi", "Scripts Linux"]
   exploring: ["GPU Mining (PRL)", "Crypto tooling", "Meilleurs workflows dev"]
   open_to: ["Contributions open-source", "Projets IA/systèmes", "Stages tech"]
+```
