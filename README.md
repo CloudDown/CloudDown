@@ -1,6 +1,6 @@
 ## 👤 About
 
-Étudiant en **génie informatique**. Passionné par les systèmes, l'embarqué, l'IA et les outils de productivité. Je construis des scripts, des outils CLI et j'explore les technologies émergentes.
+Étudiant en **génie informatique**. Passionné par les systèmes, l'embarqué, l'IA et les outils de productivité. Je construis des scripts, des outils CLI et j'explore les technologies émergen[...]
 
 Actif sur Arch Linux avec setup Nvidia, Raspberry Pi, et crypto (mining PRL, Ledger, Polymarket). Je m'intéresse aussi au développement personnel, au gaming (Rocket League, Valorant, Minecraft).
 
@@ -16,7 +16,7 @@ Actif sur Arch Linux avec setup Nvidia, Raspberry Pi, et crypto (mining PRL, Led
 ![Tools](https://skillicons.dev/icons?i=linux,arch,docker,git,github,vscode,raspberrypi&theme=dark)
 
 **AI / Data / Others**
-Python (Pandas, scripting) · C/Embedded · Git · Arch Linux · Nvidia GPU · Airflow-style pipelines (personnel)
+Python (Pandas, scripting) · Rust/Embedded · Git · Arch Linux · Nvidia GPU · Airflow-style pipelines (personnel)
 
 ---
 ## 🤖 AI & Coding Focus
@@ -24,7 +24,7 @@ Python (Pandas, scripting) · C/Embedded · Git · Arch Linux · Nvidia GPU · A
 | Domaine | Focus | Détails |
 |---------|------|--------|
 | **AI Coding Agents** | Outils principaux | OpenCode, Cursor CLI, Claude Code, prompt engineering, workflows avancés |
-| **Systèmes & Embarqué** | Apprentissage actif | C efficace, Raspberry Pi (ventilation, projets hardware), Linux internals |
+| **Systèmes & Embarqué** | Apprentissage actif | Rust efficace, Raspberry Pi (ventilation, projets hardware), Linux internals |
 | **Outils & Automatisation** | Projets perso | Scripts Python, memory systems, gaming tools |
 
 ---
@@ -40,15 +40,15 @@ Pack de crosshairs, anti-AFK, et outils no-recoil (AutoIt/Python) pour améliore
 ## 💼 Experience & Activité
 
 - **Développement personnel & open-source** : Scripts, outils CLI, projets hardware (RPi), automation Linux.
-- **Focus actuel** : Maîtrise du C/embarqué, agents IA avancés, optimisation GPU/mining.
+- **Focus actuel** : Maîtrise du Rust/embarqué, agents IA avancés, optimisation GPU/mining.
 
 ---
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CloudDown&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=A855F7&icon_color=8B5CF6&theme=dark" />
-<img height="165" src="https://streak-stats.demolab.com?user=CloudDown&hide_border=true&background=0D1117&stroke=8957E5&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&theme=dark" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudDown&layout=compact&langs_count=8&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CloudDown&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=A855F7&icon_color=8B5C[...]
+<img height="165" src="https://streak-stats.demolab.com?user=CloudDown&hide_border=true&background=0D1117&stroke=8957E5&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&theme=dark"[...]
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudDown&layout=compact&langs_count=8&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117" [...]
 </div>
 
 ---
@@ -56,7 +56,7 @@ Pack de crosshairs, anti-AFK, et outils no-recoil (AutoIt/Python) pour améliore
 
 ```yaml
 focus:
-  learning: ["C & Embedded", "Advanced AI Agents (OpenCode/Cursor)"]
+  learning: ["Rust & Embedded", "Advanced AI Agents (OpenCode/Cursor)"]
   building: ["Projets hardware RPi", "Scripts Linux"]
   exploring: ["GPU Mining (PRL)", "Crypto tooling", "Meilleurs workflows dev"]
   open_to: ["Contributions open-source", "Projets IA/systèmes", "Stages tech"]
