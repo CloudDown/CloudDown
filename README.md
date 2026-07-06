@@ -38,40 +38,16 @@ Repo pour l'enseignement et l'apprentissage du Python (exercices, exemples, stru
 </details>
 
 <details>
-<summary><b>clash</b> — Projet C++ récent</summary>
-<br>
-Développement en C++ (systèmes/programmation compétitive ou outils).
-</details>
-
-<details>
 <summary><b>CrosshairPack / Anti-AFK / Alcoil</b> — Outils gaming</summary>
 <br>
 Pack de crosshairs, anti-AFK, et outils no-recoil (AutoIt/Python) pour améliorer l'expérience gaming.
 </details>
 
-<details>
-<summary><b>Fast-Puppets / WilyPass / Mirage</b> — Scripts utilitaires</summary>
-<br>
-Outils d'automatisation : génération d'emails temporaires, password lists, aides malware/analysis, etc.
-</details>
-
-**Autres repos** : Pilepsy, Mikmac, Sand-Shell, pro_cursor, etc.
-
 ---
 ## 💼 Experience & Activité
 
 - **Développement personnel & open-source** : Scripts, outils CLI, projets hardware (RPi), automation Linux.
-- **Études** : Prépa/équivalences UQAM → Poly (INFxxxx, MTH0103 Intégration, etc.). Gestion rigoureuse via Google Calendar.
 - **Focus actuel** : Maîtrise du C/embarqué, agents IA avancés, optimisation GPU/mining, aides à l'étude interactives.
-
----
-## 🏆 Achievements & Interests
-
-- Création de fiches de révision, sites HTML/JS dark theme pour maths et cours.
-- Setup Arch Linux + Nvidia, projets Raspberry Pi.
-- Actif sur X (@Passkultur) avec une vibe Québécoise sans filtre.
-- Gaming : Rocket League (suivi pros/teams), Valorant, Minecraft mods, etc.
-
 ---
 ## 📊 GitHub Analytics
 
