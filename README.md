@@ -79,19 +79,60 @@ Personal pipelines · Gaming tools
 
 <div align="center">
 
-<a href="https://github.com/CloudDown/annie">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CloudDown&repo=annie&theme=dark&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" />
-</a>
-<a href="https://github.com/CloudDown/Alcoil">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CloudDown&repo=Alcoil&theme=dark&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" />
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/CloudDown/CrosshairPack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CloudDown&repo=CrosshairPack&theme=dark&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" />
-</a>
-<a href="https://github.com/CloudDown/Anti-AFK">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=CloudDown&repo=Anti-AFK&theme=dark&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" />
-</a>
+### 🎬 [annie](https://github.com/CloudDown/annie)
+
+Anime torrent CLI — Nyaa search, fzf, libtorrent streaming
+
+<br />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/CloudDown/annie?style=flat-square&color=8B5CF6)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 [Alcoil](https://github.com/CloudDown/Alcoil)
+
+Custom no-recoil tool for gaming
+
+<br />
+
+![AutoIt](https://img.shields.io/badge/AutoIt-3776AB?style=flat-square)
+![Stars](https://img.shields.io/github/stars/CloudDown/Alcoil?style=flat-square&color=8B5CF6)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [CrosshairPack](https://github.com/CloudDown/CrosshairPack)
+
+Custom crosshair pack for gaming
+
+<br />
+
+![Gaming](https://img.shields.io/badge/Gaming-Tools-8B5CF6?style=flat-square)
+![Stars](https://img.shields.io/github/stars/CloudDown/CrosshairPack?style=flat-square&color=8B5CF6)
+
+</td>
+<td width="50%" valign="top">
+
+### ⏱️ [Anti-AFK](https://github.com/CloudDown/Anti-AFK)
+
+Anti-inactivity tool for gaming sessions
+
+<br />
+
+![AutoIt](https://img.shields.io/badge/AutoIt-3776AB?style=flat-square)
+![Stars](https://img.shields.io/github/stars/CloudDown/Anti-AFK?style=flat-square&color=8B5CF6)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -101,10 +142,11 @@ Personal pipelines · Gaming tools
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=CloudDown&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=CloudDown&hide_border=true&background=0D1117&stroke=8957E5&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&theme=dark" alt="GitHub Streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CloudDown&theme=2077" alt="GitHub Profile" />
+<img height="180" src="https://streak-stats.demolab.com?user=CloudDown&hide_border=true&background=0D1117&stroke=8957E5&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&theme=dark" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CloudDown&layout=compact&langs_count=8&hide_border=true&title_color=A855F7&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CloudDown&theme=2077" alt="Repos per Language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CloudDown&theme=2077" alt="Most Used Languages" />
 
 </div>
 
