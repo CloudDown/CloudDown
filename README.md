@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:A855F7&height=200&section=header&text=CloudDown&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student&descAlignY=55&descSize=20" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Systems+%26+Embedded;AI+Agents+%26+Automation;Arch+Linux+%2B+Nvidia+%2B+Raspberry+Pi" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Mobile+%26+Web+Apps;Systems+%26+Embedded;AI+Agents+%26+Automation" alt="Typing SVG" />
 
 <br />
 
@@ -17,7 +17,7 @@
 ## 🧠 About
 
 Passionate about systems, embedded, AI and productivity tools.
-I build scripts, CLI tools, and explore emerging technologies — on an **Arch Linux + Nvidia + Raspberry Pi** setup.
+I build mobile apps, CLI tools, and web projects — on an **Arch Linux + Nvidia + Raspberry Pi** setup.
 
 Also into hardware tinkering and a casual gamer on the side.
 
@@ -29,7 +29,7 @@ Also into hardware tinkering and a casual gamer on the side.
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,rust,java,js,html,css,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,rust,java,kotlin,js,html,css,bash&theme=dark" />
 
 **Systems & Tools**
 
@@ -54,11 +54,11 @@ Claude Code · Prompt engineering
 </td>
 <td align="center" width="240">
 
-**⚙️ Systems & Embedded**
+**⚙️ Mobile & Systems**
 <br />
-Rust · Raspberry Pi
+Kotlin · Rust · Raspberry Pi
 <br />
-Linux internals
+Android apps · Linux internals
 
 </td>
 <td align="center" width="240">
@@ -67,7 +67,7 @@ Linux internals
 <br />
 Python scripts
 <br />
-Personal pipelines · Gaming tools
+CLI tools · Web apps
 
 </td>
 </tr>
@@ -83,6 +83,32 @@ Personal pipelines · Gaming tools
 <tr>
 <td width="50%" valign="top">
 
+### 📅 [dispo](https://github.com/CloudDown/dispo)
+
+Availability management app
+
+<br />
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Stars](https://img.shields.io/github/stars/CloudDown/dispo?style=flat-square&color=8B5CF6)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ [quest](https://github.com/CloudDown/quest)
+
+Daily quests application
+
+<br />
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Stars](https://img.shields.io/github/stars/CloudDown/quest?style=flat-square&color=8B5CF6)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎬 [annie](https://github.com/CloudDown/annie)
 
 Anime torrent CLI — Nyaa search, fzf, libtorrent streaming
@@ -95,40 +121,14 @@ Anime torrent CLI — Nyaa search, fzf, libtorrent streaming
 </td>
 <td width="50%" valign="top">
 
-### 🎮 [Alcoil](https://github.com/CloudDown/Alcoil)
+### 📊 [instree](https://github.com/CloudDown/instree)
 
-Custom no-recoil tool for gaming
-
-<br />
-
-![AutoIt](https://img.shields.io/badge/AutoIt-3776AB?style=flat-square)
-![Stars](https://img.shields.io/github/stars/CloudDown/Alcoil?style=flat-square&color=8B5CF6)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 [CrosshairPack](https://github.com/CloudDown/CrosshairPack)
-
-Custom crosshair pack for gaming
+Instagram subscription tracker with web dashboard
 
 <br />
 
-![Gaming](https://img.shields.io/badge/Gaming-Tools-8B5CF6?style=flat-square)
-![Stars](https://img.shields.io/github/stars/CloudDown/CrosshairPack?style=flat-square&color=8B5CF6)
-
-</td>
-<td width="50%" valign="top">
-
-### ⏱️ [Anti-AFK](https://github.com/CloudDown/Anti-AFK)
-
-Anti-inactivity tool for gaming sessions
-
-<br />
-
-![AutoIt](https://img.shields.io/badge/AutoIt-3776AB?style=flat-square)
-![Stars](https://img.shields.io/github/stars/CloudDown/Anti-AFK?style=flat-square&color=8B5CF6)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/CloudDown/instree?style=flat-square&color=8B5CF6)
 
 </td>
 </tr>
@@ -168,9 +168,9 @@ Anti-inactivity tool for gaming sessions
 
 <br />
 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AutoIt](https://img.shields.io/badge/AutoIt-8B5CF6?style=for-the-badge)
-![Batchfile](https://img.shields.io/badge/Batchfile-A855F7?style=for-the-badge)
 
 </div>
 
