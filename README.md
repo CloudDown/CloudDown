@@ -2,7 +2,7 @@
 
 Étudiant en **génie informatique**. Passionné par les systèmes, l'embarqué, l'IA et les outils de productivité. Je construis des scripts, des outils CLI et j'explore les technologies émergen[...]
 
-Actif sur Arch Linux avec setup Nvidia, Raspberry Pi, et crypto (mining PRL, Ledger, Polymarket). Je m'intéresse aussi au développement personnel, au gaming (Rocket League, Valorant, Minecraft).
+Sous Linux au quotidien, je bricole du hardware (Raspberry Pi) et j'automatise tout ce qui peut l'être. Je m'intéresse aussi au développement personnel et au gaming.
 
 **🟢 Open to :** Projets open-source · Contributions IA/coding · Collaborations techniques · Stages en software/systems (2027+)
 
@@ -40,7 +40,7 @@ Pack de crosshairs, anti-AFK, et outils no-recoil (AutoIt/Python) pour améliore
 ## 💼 Experience & Activité
 
 - **Développement personnel & open-source** : Scripts, outils CLI, projets hardware (RPi), automation Linux.
-- **Focus actuel** : Maîtrise du Rust/embarqué, agents IA avancés, optimisation GPU/mining.
+- **Focus actuel** : Maîtrise du Rust/embarqué, agents IA avancés, optimisation GPU.
 
 ---
 ## 📊 GitHub Analytics
@@ -58,6 +58,6 @@ Pack de crosshairs, anti-AFK, et outils no-recoil (AutoIt/Python) pour améliore
 focus:
   learning: ["Rust & Embedded", "Advanced AI Agents (OpenCode/Cursor)"]
   building: ["Projets hardware RPi", "Scripts Linux"]
-  exploring: ["GPU Mining (PRL)", "Crypto tooling", "Meilleurs workflows dev"]
+  exploring: ["Optimisation GPU", "Meilleurs workflows dev"]
   open_to: ["Contributions open-source", "Projets IA/systèmes", "Stages tech"]
 ```
