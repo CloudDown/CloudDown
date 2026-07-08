@@ -19,7 +19,7 @@
 Passionate about systems, embedded, AI and productivity tools.
 I build scripts, CLI tools, and explore emerging technologies — on an **Arch Linux + Nvidia + Raspberry Pi** setup.
 
-Also curious about crypto *(PRL mining, Ledger, Polymarket)* and a casual gamer *(Rocket League, Valorant, Minecraft)*.
+Also into hardware tinkering and a casual gamer on the side.
 
 <br />
 
