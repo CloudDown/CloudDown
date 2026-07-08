@@ -142,11 +142,35 @@ Anti-inactivity tool for gaming sessions
 
 <div align="center">
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CloudDown&theme=2077" alt="GitHub Profile" />
-<img height="180" src="https://streak-stats.demolab.com?user=CloudDown&hide_border=true&background=0D1117&stroke=8957E5&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&theme=dark" alt="GitHub Streak" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CloudDown&bg_color=0d1117&color=8b5cf6&line=a855f7&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity&title_color=A855F7" alt="Contribution Activity" />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CloudDown&theme=2077" alt="Repos per Language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CloudDown&theme=2077" alt="Most Used Languages" />
+<br /><br />
+
+<table align="center">
+<tr>
+<td align="center">
+
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/CloudDown&query=%24.public_repos&label=Public%20Repos&color=8B5CF6&style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/CloudDown?label=Followers&color=A855F7&style=for-the-badge&logo=github&logoColor=white)
+![GitHub since 2021](https://img.shields.io/badge/GitHub%20since-2021-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=CloudDown&hide_border=true&background=0D1117&stroke=8957E5&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9&theme=dark" alt="GitHub Streak" />
+
+<br /><br />
+
+**Top Languages**
+
+<br />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AutoIt](https://img.shields.io/badge/AutoIt-8B5CF6?style=for-the-badge)
+![Batchfile](https://img.shields.io/badge/Batchfile-A855F7?style=for-the-badge)
 
 </div>
 
