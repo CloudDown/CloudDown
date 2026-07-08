@@ -75,33 +75,25 @@ Pipelines perso · Gaming tools
 
 <br />
 
-## 🚀 Projets
+## 🚀 Projets phares
 
-<table align="center">
-<tr>
-<td align="center" width="240">
+<div align="center">
 
-**🎯 CrosshairPack**
-<br />
-Pack de crosshairs gaming
+<a href="https://github.com/CloudDown/annie">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CloudDown&repo=annie&theme=dark&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" />
+</a>
+<a href="https://github.com/CloudDown/Alcoil">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CloudDown&repo=Alcoil&theme=dark&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" />
+</a>
 
-</td>
-<td align="center" width="240">
+<a href="https://github.com/CloudDown/CrosshairPack">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CloudDown&repo=CrosshairPack&theme=dark&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" />
+</a>
+<a href="https://github.com/CloudDown/Anti-AFK">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=CloudDown&repo=Anti-AFK&theme=dark&hide_border=true&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" />
+</a>
 
-**⏱️ Anti-AFK**
-<br />
-Outil anti-inactivité
-
-</td>
-<td align="center" width="240">
-
-**🎮 Alcoil**
-<br />
-Outils no-recoil (AutoIt / Python)
-
-</td>
-</tr>
-</table>
+</div>
 
 <br />
 
