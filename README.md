@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:A855F7&height=200&section=header&text=CloudDown&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer[...]
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:A855F7&height=200&section=header&text=CloudDown&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Vision%20%26%20AI" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Mobile+%26+Web+Apps;Systems+%26+Embedded;AI+Agents+[...]
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Mobile+%26+Web+Apps;Systems+%26+Embedded;AI+Agents+%26+Automation" />
 
 <br />
 
@@ -142,7 +142,7 @@ Instagram subscription tracker with web dashboard
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CloudDown&bg_color=0d1117&color=8b5cf6&line=a855f7&point=ffffff&area=true&hide_border=true&custom_title=Contributi[...]
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CloudDown&bg_color=0d1117&color=8b5cf6&line=a855f7&point=ffffff&area=true&hide_border=true&custom_title=Contributions" />
 
 <br /><br />
 
@@ -150,7 +150,7 @@ Instagram subscription tracker with web dashboard
 <tr>
 <td align="center">
 
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/CloudDown&query=%24.public_repos&label=Public%20Repos&color=8B5CF6&style=for-the-badge&logo=github&logoColor=[...]
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/CloudDown&query=%24.public_repos&label=Public%20Repos&color=8B5CF6&style=for-the-badge&logo=github&logoColor=white)
 ![Followers](https://img.shields.io/github/followers/CloudDown?label=Followers&color=A855F7&style=for-the-badge&logo=github&logoColor=white)
 ![GitHub since 2021](https://img.shields.io/badge/GitHub%20since-2021-8B5CF6?style=for-the-badge&logo=github&logoColor=white)
 
@@ -160,7 +160,7 @@ Instagram subscription tracker with web dashboard
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=CloudDown&hide_border=true&background=0D1117&stroke=8957E5&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9&theme=dark" alt[...]
+<img src="https://streak-stats.demolab.com?user=CloudDown&hide_border=true&background=0D1117&stroke=8957E5&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&dates=C9D1D9&theme=dark" alt="GitHub Streak Stats" />
 
 <br /><br />
 
