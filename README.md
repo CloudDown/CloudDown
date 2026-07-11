@@ -65,9 +65,9 @@ Android apps · Linux internals
 
 **🔁 Automation**
 <br />
-Python scripts
+n8n
 <br />
-CLI tools · Web apps
+CLI tools · Python scripts
 
 </td>
 </tr>
