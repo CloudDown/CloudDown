@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:A855F7&height=200&section=header&text=CloudDown&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Systems%20%26%20AI" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:A855F7&height=200&section=header&text=CloudDown&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20Systems%20AI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Mobile+%26+Web+Apps;Systems+%26+Embedded;AI+Agents+%26+Automation;Linux+%26+Open+Source" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Mobile%20%26%20Web%20Apps;Systems%20%26%20Embedded;AI%20Agents%20%26%20Automation;Linux%20%26%20Open%20Source" />
 
 <br />
 
