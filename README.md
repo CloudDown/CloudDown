@@ -171,6 +171,7 @@ Instagram subscription tracker with web dashboard
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AutoIt](https://img.shields.io/badge/AutoIt-8B5CF6?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
 
 </div>
 
