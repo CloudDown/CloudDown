@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="380" viewBox="0 0 1440 380" role="img" aria-label="CloudDown">
+  <rect width="1440" height="380" rx="32" fill="#0d1117"/>
+  <rect x="1.5" y="1.5" width="1437" height="377" rx="30.5" fill="none" stroke="#21262d" stroke-width="1.5"/>
+
+  <text x="72" y="72" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#6e7681" style="letter-spacing: 0.28em;">01</text>
+  <text x="1368" y="72" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#6e7681" style="letter-spacing: 0.28em;">2026</text>
+
+  <text x="720" y="188" text-anchor="middle" font-family="Georgia, 'Iowan Old Style', Palatino, 'Times New Roman', serif" font-size="54" fill="#f0f6fc" style="letter-spacing: 0.46em;">CLOUDDOWN</text>
+
+  <rect x="678" y="216" width="84" height="1.25" fill="#a78bfa"/>
+
+  <text x="720" y="268" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#8b949e" style="letter-spacing: 0.42em;">ANDROID · CLI · SYSTEMS</text>
+</svg>
