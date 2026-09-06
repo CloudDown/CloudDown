@@ -1,57 +1,23 @@
-<div align="center">
-  <h1>C L O U D D O W N</h1>
-  <p><sub>android · cli · systems</sub></p>
+# CloudDown
 
-  <br />
+I build mobile apps, CLI tools, and small web projects — mostly Kotlin, Python, and Rust. Interested in systems, embedded Linux, and AI agents. I work on Arch Linux, with a Raspberry Pi on the side.
 
-  <p>
-    Android apps, command-line tools, small systems.<br />
-    Kotlin, Python, and Rust.
-  </p>
+Open to internships from 2027, and to open-source work.
 
-  <p><sub>internships 2027+ · open source</sub></p>
-</div>
+## Focus
 
-<br />
+- **AI** — agents and tooling around OpenCode, Cursor CLI, Claude Code, and prompt engineering
+- **Mobile & systems** — Kotlin/Android, Rust, Raspberry Pi, Linux internals
+- **Automation** — Python scripts, CLIs, small web apps
 
----
+## Projects
 
-<br />
+- **[dispo](https://github.com/CloudDown/dispo)** — Android app for managing availability
+- **[quest](https://github.com/CloudDown/quest)** — Android app for daily quests
+- **[annie](https://github.com/CloudDown/annie)** — CLI to search Nyaa, pick with fzf, and stream torrents via libtorrent
+- **[instree](https://github.com/CloudDown/instree)** — Instagram follow tracker (adds, removals, changes) with a web dashboard
 
-<div align="center">
-  <p><sub>work</sub></p>
+## Stack
 
-  <p>
-    <a href="https://github.com/CloudDown/dispo">dispo</a><br />
-    <sub>availability · android</sub>
-  </p>
-
-  <p>
-    <a href="https://github.com/CloudDown/quest">quest</a><br />
-    <sub>daily quests · android</sub>
-  </p>
-
-  <p>
-    <a href="https://github.com/CloudDown/annie">annie</a><br />
-    <sub>nyaa · fzf · libtorrent</sub>
-  </p>
-
-  <p>
-    <a href="https://github.com/CloudDown/instree">instree</a><br />
-    <sub>instagram tracker</sub>
-  </p>
-</div>
-
-<br />
-
----
-
-<br />
-
-<div align="center">
-  <p><sub>stack</sub></p>
-  <p>
-    kotlin · python · rust · java · javascript · bash<br />
-    linux · docker · git · raspberry pi
-  </p>
-</div>
+Python, Kotlin, Rust, Java, JavaScript, HTML, CSS, Bash  
+Linux, Docker, Git, Raspberry Pi
