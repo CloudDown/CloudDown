@@ -1,16 +1,44 @@
 <div align="center">
-  <img src="./header.svg" width="720" alt="CloudDown — android, cli, systems" />
-</div>
+  <h1>C L O U D D O W N</h1>
+  <p><sub>android · cli · systems</sub></p>
 
-<br />
+  <br />
 
-<div align="center">
   <p>
     Android apps, command-line tools, small systems.<br />
     Kotlin, Python, and Rust.
   </p>
+
+  <p><sub>internships 2027+ · open source</sub></p>
+</div>
+
+<br />
+
+---
+
+<br />
+
+<div align="center">
+  <p><sub>work</sub></p>
+
   <p>
-    internships 2027+&nbsp;&nbsp;·&nbsp;&nbsp;open source
+    <a href="https://github.com/CloudDown/dispo">dispo</a><br />
+    <sub>availability · android</sub>
+  </p>
+
+  <p>
+    <a href="https://github.com/CloudDown/quest">quest</a><br />
+    <sub>daily quests · android</sub>
+  </p>
+
+  <p>
+    <a href="https://github.com/CloudDown/annie">annie</a><br />
+    <sub>nyaa · fzf · libtorrent</sub>
+  </p>
+
+  <p>
+    <a href="https://github.com/CloudDown/instree">instree</a><br />
+    <sub>instagram tracker</sub>
   </p>
 </div>
 
@@ -20,29 +48,10 @@
 
 <br />
 
-<h3 align="center">work</h3>
-
-<p align="center">
-  <a href="https://github.com/CloudDown/dispo"><strong>dispo</strong></a> — availability · android<br />
-  <a href="https://github.com/CloudDown/quest"><strong>quest</strong></a> — daily quests · android<br />
-  <a href="https://github.com/CloudDown/annie"><strong>annie</strong></a> — nyaa · fzf · libtorrent<br />
-  <a href="https://github.com/CloudDown/instree"><strong>instree</strong></a> — instagram tracker
-</p>
-
-<br />
-
-<h3 align="center">stack</h3>
-
-<p align="center">
-  <code>kotlin</code>&nbsp;
-  <code>python</code>&nbsp;
-  <code>rust</code>&nbsp;
-  <code>java</code>&nbsp;
-  <code>javascript</code>&nbsp;
-  <code>bash</code>
-  <br /><br />
-  <code>linux</code>&nbsp;
-  <code>docker</code>&nbsp;
-  <code>git</code>&nbsp;
-  <code>raspberry pi</code>
-</p>
+<div align="center">
+  <p><sub>stack</sub></p>
+  <p>
+    kotlin · python · rust · java · javascript · bash<br />
+    linux · docker · git · raspberry pi
+  </p>
+</div>
