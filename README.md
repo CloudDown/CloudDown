@@ -4,6 +4,10 @@ I build mobile apps, CLI tools, and small web projects — mostly Kotlin, Python
 
 Open to internships from 2027, and to open-source work.
 
+## Featured
+
+- **[omacourses](https://github.com/CloudDown/omacourses)** — Stylus notebook for the Omarchy desk (`cahier`): bookshelf + paper, local-only notes. Rust.
+
 ## Focus
 
 - **AI** — agents and tooling around OpenCode, Cursor CLI, Claude Code, and prompt engineering
@@ -16,6 +20,7 @@ Open to internships from 2027, and to open-source work.
 - **[quest](https://github.com/CloudDown/quest)** — Android app for daily quests
 - **[annie](https://github.com/CloudDown/annie)** — CLI to search Nyaa, pick with fzf, and stream torrents via libtorrent
 - **[instree](https://github.com/CloudDown/instree)** — Instagram follow tracker (adds, removals, changes) with a web dashboard
+- **[omarchy-cobalt](https://github.com/CloudDown/omarchy-cobalt)** — Omarchy bar widget: save YouTube, TikTok and X (Cobalt + yt-dlp)
 
 ## Stack
 
