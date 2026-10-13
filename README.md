@@ -1,28 +1,23 @@
 # CloudDown
 
-I build mobile apps, CLI tools, and small web projects — mostly Kotlin, Python, and Rust. Interested in systems, embedded Linux, and AI agents. I work on Arch Linux, with a Raspberry Pi on the side.
+I build Linux desktop tools, CLIs, and AI tooling — mostly Rust and Python. I work on Arch Linux with Omarchy (Hyprland/Wayland), and I'm interested in systems, Linux internals, and AI agents.
 
 Open to internships from 2027, and to open-source work.
 
-## Featured
+## Projects
 
-- **[omacourses](https://github.com/CloudDown/omacourses)** — Stylus notebook for the Omarchy desk (`cahier`): bookshelf + paper, local-only notes. Rust.
+- **[omacourses](https://github.com/CloudDown/omacourses)** — Cahier: stylus note-taking app for Omarchy/Hyprland, local-only notes. Rust + egui.
+- **[omarchy-cobalt](https://github.com/CloudDown/omarchy-cobalt)** — Omarchy bar widget to save YouTube, TikTok and X videos (Cobalt first, yt-dlp fallback).
+- **[annie](https://github.com/CloudDown/annie)** — Anime torrent CLI: search Nyaa, pick with fzf, stream via libtorrent. Python.
+- **[polymtl-moodle-connect](https://github.com/CloudDown/polymtl-moodle-connect)** — Moodle MCP connector for OpenCode and Claude Desktop, with one-command installers for Windows, macOS and Linux.
 
 ## Focus
 
-- **AI** — agents and tooling around OpenCode, Cursor CLI, Claude Code, and prompt engineering
-- **Mobile & systems** — Kotlin/Android, Rust, Raspberry Pi, Linux internals
-- **Automation** — Python scripts, CLIs, small web apps
-
-## Projects
-
-- **[dispo](https://github.com/CloudDown/dispo)** — Android app for managing availability
-- **[quest](https://github.com/CloudDown/quest)** — Android app for daily quests
-- **[annie](https://github.com/CloudDown/annie)** — CLI to search Nyaa, pick with fzf, and stream torrents via libtorrent
-- **[instree](https://github.com/CloudDown/instree)** — Instagram follow tracker (adds, removals, changes) with a web dashboard
-- **[omarchy-cobalt](https://github.com/CloudDown/omarchy-cobalt)** — Omarchy bar widget: save YouTube, TikTok and X (Cobalt + yt-dlp)
+- **Linux desktop** — Wayland, Hyprland, Omarchy tooling
+- **AI tooling** — MCP servers, agents (OpenCode, Cursor, Claude Code)
+- **Automation** — Python CLIs and scripts
 
 ## Stack
 
-Python, Kotlin, Rust, Java, JavaScript, HTML, CSS, Bash  
-Linux, Docker, Git, Raspberry Pi
+Rust, Python, TypeScript, Bash  
+Linux, Wayland/Hyprland, MCP, Docker, Git
