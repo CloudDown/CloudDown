@@ -4,17 +4,18 @@ I build Linux desktop tools, CLIs, and AI tooling — mostly Rust and Python. I 
 
 Open to internships from 2027, and to open-source work.
 
+Portfolio: https://clouddown.github.io/portfolio/
+
 ## Projects
 
-- **[omacourses](https://github.com/CloudDown/omacourses)** — Cahier: stylus note-taking app for Omarchy/Hyprland, local-only notes. Rust + egui.
-- **[omarchy-cobalt](https://github.com/CloudDown/omarchy-cobalt)** — Omarchy bar widget to save YouTube, TikTok and X videos (Cobalt first, yt-dlp fallback).
-- **[annie](https://github.com/CloudDown/annie)** — Anime torrent CLI: search Nyaa, pick with fzf, stream via libtorrent. Python.
+- **[Inkarchy](https://github.com/CloudDown/inkarchy)** — Native stylus note-taking app for Omarchy/Hyprland, local-only notes, PDF annotation. Rust + egui. (v0.3.0)
+- **[Cobalt Download](https://github.com/CloudDown/omarchy-cobalt)** — Omarchy bar widget to save YouTube, TikTok and X videos (Cobalt first, yt-dlp fallback).
 - **[polymtl-moodle-connect](https://github.com/CloudDown/polymtl-moodle-connect)** — Moodle MCP connector for OpenCode and Claude Desktop, with one-command installers for Windows, macOS and Linux.
 
 ## Focus
 
 - **Linux desktop** — Wayland, Hyprland, Omarchy tooling
-- **AI tooling** — MCP servers, agents (OpenCode, Cursor, Claude Code)
+- **AI tooling** — MCP servers, agents (OpenCode, Claude Code)
 - **Automation** — Python CLIs and scripts
 
 ## Stack
