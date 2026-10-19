@@ -10,7 +10,7 @@ Portfolio: https://clouddown.github.io/portfolio/
 
 - **[Inkarchy](https://github.com/CloudDown/inkarchy)** — Native stylus note-taking app for Omarchy/Hyprland, local-only notes, PDF annotation. Rust + egui. (v0.3.0)
 - **[Cobalt Download](https://github.com/CloudDown/omarchy-cobalt)** — Omarchy bar widget to save YouTube, TikTok and X videos (Cobalt first, yt-dlp fallback).
-- **[polymtl-moodle-connect](https://github.com/CloudDown/polymtl-moodle-connect)** — Moodle MCP connector for OpenCode and Claude Desktop, with one-command installers for Windows, macOS and Linux.
+- **[student-mcp](https://github.com/CloudDown/student-mcp)** — Moodle MCP connector for OpenCode and Claude Desktop, with one-command installers for Windows, macOS and Linux.
 
 ## Focus
 
