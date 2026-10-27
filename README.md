@@ -1,4 +1,4 @@
-# CloudDown
+# Cl0ud
 
 I build Linux desktop tools, CLIs, and AI tooling — mostly Rust and Python. I work on Arch Linux with Omarchy (Hyprland/Wayland), and I'm interested in systems, Linux internals, and AI agents.
 
